@@ -1,4 +1,5 @@
-scoreboard teams leave @a
+reload
+scoreboard teams leave @a[team=!sp]
 kill @e[tag=s]
 kill @e[tag=building]
 kill @e[type=!Player]

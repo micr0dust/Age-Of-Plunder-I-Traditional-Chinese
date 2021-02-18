@@ -1,5 +1,6 @@
+playsound minecraft:block.anvil.use record @a[r=5] ~ ~ ~ 0.3 0.92
+
 execute @e[tag=red6,r=3,c=1] ~ ~ ~ /clone -20 43 -109 -12 50 -117 ~-4 ~ ~-4 replace force
-playsound minecraft:block.anvil.use record @p ~ ~ ~ 0.3 0.92
 execute @e[tag=blue6,r=3,c=1] ~ ~ ~ /clone -20 43 -109 -12 48 -117 ~-4 ~ ~-4 replace force
 
 execute @e[tag=blue1,r=3] ~ ~ ~ /clone 8 43 -89 14 48 -95 ~-3 ~ ~-3 replace force

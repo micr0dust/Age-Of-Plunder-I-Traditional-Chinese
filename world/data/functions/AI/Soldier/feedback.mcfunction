@@ -1,1 +1,1 @@
-scoreboard players add @a money 15
+scoreboard players add @e[tag=cmd] money 15

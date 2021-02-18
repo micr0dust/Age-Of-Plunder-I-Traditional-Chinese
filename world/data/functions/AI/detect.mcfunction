@@ -1,1 +1,1 @@
-scoreboard players set @a AI 100
+scoreboard players set @e[tag=cmd] AI 100
