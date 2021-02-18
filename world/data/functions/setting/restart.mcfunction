@@ -51,7 +51,8 @@ effect @a clear
 function setting:var
 clone 62 20 -174 62 20 -174 34 30 -197
 clone 62 20 -174 62 20 -174 113 30 -137
-
+setblock 114 30 -137 minecraft:hopper
+setblock 33 30 -197 minecraft:hopper
 
 
 
