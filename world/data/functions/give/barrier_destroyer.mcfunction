@@ -1,0 +1,1 @@
+execute @a[c=1,r=1] ~ ~ ~ /give @p minecraft:silver_shulker_box 1 0 {display:{Name:"拆除山脈",Lore:["(對著核心按Q使用)會拆除距離2格內的山脈核心"]},des:1b,ench:[{id:71,lvl:3}]}

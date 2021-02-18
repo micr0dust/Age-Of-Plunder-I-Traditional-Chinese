@@ -1,0 +1,1 @@
+execute @a[c=1,r=1] ~ ~ ~ /give @p minecraft:banner 1 4 {display:{Name:"領軍旗",Lore:["(拿著按Q使用)你的士兵會向這個旗幟集合"]},bluef:1b,ench:[{id:71,lvl:3}]}

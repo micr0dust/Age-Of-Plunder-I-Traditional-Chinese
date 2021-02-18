@@ -1,0 +1,11 @@
+scoreboard players set @a bluekeep 0
+scoreboard players set @a bluestop 0
+scoreboard players set @a bluesurrender 0
+scoreboard players set @a bluesurrenderc 0
+scoreboard players set @a redkeep 0
+scoreboard players set @a redstop 0
+scoreboard players set @a redsurrender 0
+scoreboard players set @a redsurrenderc 0
+scoreboard players set @a info 0
+scoreboard players set @a put 0
+scoreboard players set @a restart 0

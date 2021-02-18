@@ -1,0 +1,4 @@
+gamerule sendCommandFeedback false
+gamerule commandBlockOutput false
+gamerule doDaylightCycle false
+
